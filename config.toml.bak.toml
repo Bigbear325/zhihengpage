@@ -1,6 +1,6 @@
-baseurl = "http://cmccvic.github.io"  # End your URL with a `/` trailing slash.
-title = "Welcome to Zhiheng's Homepage"
-copyright = "&copy; 2017 Zhiheng Liu"
+baseurl = "https://example.com/"  # End your URL with a `/` trailing slash.
+title = "Academic"
+copyright = "&copy; 2016 Your Name"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -9,7 +9,7 @@ footnotereturnlinkcontents = "<sup>^</sup>"
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = "UA-104708768-1"
+googleAnalytics = ""
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -19,17 +19,17 @@ defaultContentLanguageInSubdir = false
   hrefTargetBlank = true
 
 [params]
-  name = "Zhiheng(Vic) Liu"
-  role = "Research Assistant at Lehigh University"
-  organization = "Lehigh University"
-  organization_url = "lehigh.edu"
+  name = "Lena Smith"
+  role = "Professor of Artificial Intelligence"
+  organization = "Stanford University"
+  organization_url = ""
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "zhl416@lehigh.edu"
-  address = "Build27 Memorial Dr W, Bethlehem, PA 18015, USA"
+  email = "test@example.org"
+  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
   office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "484 456 0977"
-  skype = ""
+  phone = "888 888 88 88"
+  skype = "echo123"
   telegram = ""
 
   # Enable Keybase in Contact section by entering your keybase.io username.
@@ -41,7 +41,7 @@ defaultContentLanguageInSubdir = false
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
-  math = true
+  math = false
 
   # Highlight.js options
   #   highlight
@@ -86,7 +86,7 @@ defaultContentLanguageInSubdir = false
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
-  custom_css = ["green.css"]
+  custom_css = []
   custom_js  = []
 
   # Publication types.
@@ -155,23 +155,23 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[menu.main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Publications"
+  url = "#publications_selected"
   weight = 2
 
 [[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
+  name = "Posts"
+  url = "#posts"
   weight = 3
 
 [[menu.main]]
-  name = "Time Lines"
-  url = "#posts"
+  name = "Projects"
+  url = "#projects"
   weight = 4
 
 [[menu.main]]
-  name = "Photos"
-  url = "#photos"
+  name = "Teaching"
+  url = "#teaching"
   weight = 5
 
 [[menu.main]]

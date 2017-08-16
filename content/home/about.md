@@ -12,31 +12,30 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+	"System Build Design",
+	"Software Engineering",   
+	"Networking",
+   	 "NFV/SDN",
+   	 "OpenStack"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "MS in Computer Science"
+  institution = "Lehigh University, USA"
+  year = 2018
+
+[[education.courses]]
+  course = "Ms Computer Science and Engineering"
+  institution = "Waseda University, Japan"
   year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BSc in Software Engineering"
+  institution = "Beijing University of Technology, China"
+  year = 2010
  
 +++
 
 # Biography
-
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Hi, My name is Zhiheng Liu, you can also call me Vic. I work and study as a research assistant in Computer Science and Engineering Department of Lehigh University. Before come to the states,  I works for China Mobile Research Institute as a networking engineer and project manager for past 4 years. 
