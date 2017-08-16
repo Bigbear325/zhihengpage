@@ -21,9 +21,9 @@ weight = 1
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "MS in Computer Science"
+  course = "Ph.D. in Computer Science"
   institution = "Lehigh University, USA"
-  year = 2018
+  year = 2020
 
 [[education.courses]]
   course = "Ms Computer Science and Engineering"
