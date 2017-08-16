@@ -23,14 +23,11 @@ defaultContentLanguageInSubdir = false
   role = "Research Assistant at Lehigh University"
   organization = "Lehigh University"
   organization_url = "lehigh.edu"
-  gravatar = false  # Get your avatar from Gravatar.com? (true/false)
+  gravatar = true  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "zhl416@lehigh.edu"
+  email = "zhl416.AT.lehigh.edu"
   address = "Build27 Memorial Dr W, Bethlehem, PA 18015, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "484 456 0977"
-  skype = ""
-  telegram = ""
+  
 
   # Enable Keybase in Contact section by entering your keybase.io username.
   keybase = ""
