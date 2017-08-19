@@ -22,10 +22,10 @@ defaultContentLanguageInSubdir = false
   name = "Zhiheng(Vic) Liu"
   role = "Research Assistant at Lehigh University"
   organization = "Lehigh University"
-  organization_url = "lehigh.edu"
+  organization_url = "https://www1.lehigh.edu"
   gravatar = true  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "zhl416.AT.lehigh.edu"
+  email = "liu.cmri@gmail.com"
   address = "Build27 Memorial Dr W, Bethlehem, PA 18015, USA"
   
 
@@ -99,7 +99,10 @@ defaultContentLanguageInSubdir = false
     'Work in progress',  # 3
     'Technical report',  # 4
     'Book',  # 5
-    'Book chapter'  # 6
+    'Book chapter',  # 6
+    'IETF RFC', #7
+    'IETF Draft', #8
+    'Poster' #9
   ]
 
   # Social/Academic Networking
@@ -123,22 +126,32 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "mailto:liu.cmri@gmail.com"
 
   [[params.social]]
-    icon = "twitter"
+    icon = "linkedin"
     icon_pack = "fa"
     link = "//twitter.com/GeorgeCushen"
 
   [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
+    icon = "weixin"
+    icon_pack = "fa"
     link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
     link = "//github.com/gcushen"
+   
+   [[params.social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "//twitter.com/GeorgeCushen"
+    
+    [[params.social]]
+    icon = "facebook"
+    icon_pack = "fa"
+    link = "//twitter.com/GeorgeCushen"
 
 
 # Navigation Links
@@ -162,19 +175,16 @@ defaultContentLanguageInSubdir = false
   weight = 3
 
 [[menu.main]]
-  name = "Time Lines"
-  url = "#posts"
+  name = "Time Line"
+  url = "#timeline"
   weight = 4
 
-[[menu.main]]
-  name = "Photos"
-  url = "#teaching"
-  weight = 5
+
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 5
 
 # Taxonomies.
 [taxonomies]

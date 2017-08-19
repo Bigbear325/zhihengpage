@@ -26,12 +26,33 @@ view = 1
   tag = "*"
   
 [[filter]]
-  name = "Deep Learning"
-  tag = ".deep-learning"
+name = "Zero-rating"
+tag = ".poster"
 
 [[filter]]
-  name = "Other"
-  tag = ".demo"
+  name = "OPEN-O"
+  tag = ".OPEN-O"
+
+[[filter]]
+  name = "NovoNet"
+  tag = ".novonet"
+
+[[filter]]
+name = "SDN Multi-tenancy and Serveice Chain"
+tag = ".SDNDC"
+
+[[filter]]
+name = "SDN Traffic Engineering"
+tag = ".SDNTE"
+
+[[filter]]
+name = "IDC Network Design"
+tag = ".te"
+
+
+[[filter]]
+name = "MTU Evluation"
+tag = ".mtu"
 
 +++
 
