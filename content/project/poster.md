@@ -10,7 +10,7 @@ title = "Zero Rating Service"
 summary = "Understanding Free-riding Attacks in Internet Zero-rating Services"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "bubbles.jpg"
+image_preview = "zerorating.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

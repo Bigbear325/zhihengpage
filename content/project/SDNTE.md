@@ -10,7 +10,7 @@ title = "Traffic Engineering(TE) APP in SDN Controller"
 summary = "Design the SDN based DC Multi-tenancy and develop openation SDN App for VPC and Service Chain Services."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "bubbles.jpg"
+image_preview = "sdnte.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -25,7 +25,7 @@ math = false
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+
 
 +++
 # Project Background

@@ -11,7 +11,7 @@ title = "OPEN-O in Novonet"
 summary = "NovoNet is the brand of future network in China Mobile. I works in this project to promote the field trail of OPEN-O in NoveNet"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "bubbles.jpg"
+image_preview = "novonet.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -26,7 +26,7 @@ math = false
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+
 
 +++
 

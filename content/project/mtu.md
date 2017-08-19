@@ -10,7 +10,7 @@ title = "MPLS-VPN MTU research in China Mobile IP private network"
 summary = "MPLS-VPN MTU research in China Mobile IP private network"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "bubbles.jpg"
+image_preview = "mtu.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -25,7 +25,7 @@ math = false
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+
 
 +++
 

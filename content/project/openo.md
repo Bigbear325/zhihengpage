@@ -10,7 +10,7 @@ title = "OPEN-O"
 summary = "enable end-to-end service agility across SDN, NFV, and legacy networks via a unified orchestration platform supporting NFV orchestration (NFVO and VNFM) and SDN orchestration."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "bubbles.jpg"
+image_preview = "openo.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -25,7 +25,7 @@ math = false
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+
 
 +++
 

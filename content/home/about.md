@@ -12,18 +12,29 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-	"System Build Design",
+	"System Design and Development",
 	"Software Engineering",   
 	"Networking",
    	 "NFV/SDN",
-   	 "OpenStack"
+   	 "OpenStack",
+    "OpenVSwitch"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "Ph.D. in Computer Science"
+  course = "Research and Teaching Assistant in Computer Science"
   institution = "Lehigh University, USA"
-  year = 2020
+year = "Since 2016"
+
+[[education.courses]]
+course = "Project Manager and Network Engineer"
+institution = "China Mobile Research Institute, China"
+year = "July, 2012 - July, 2016"
+
+[[education.courses]]
+course = "Software Engineer (Intern)"
+institution = "NEC, Japan"
+year = 2011
 
 [[education.courses]]
   course = "Ms Computer Science and Engineering"
@@ -38,4 +49,4 @@ weight = 1
 +++
 
 # Biography
-Hi, My name is Zhiheng Liu, you can also call me Vic. I work and study as a research assistant in Computer Science and Engineering Department of Lehigh University. Before come to the states,  I works for China Mobile Research Institute as a networking engineer and project manager for past 4 years. 
+Hi, My name is Zhiheng Liu, you can also call me Vic. I work and study as a research and teaching assistant in Computer Science and Engineering Department at Lehigh University. Before coming to the  United States, I work for China Mobile Research Institute as a Network Engineer and Project Manager for four years.
