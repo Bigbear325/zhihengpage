@@ -12,9 +12,9 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
+  	"Cloud Networking"
 	"Cyber Security",
-    "Operating System",
-    "Computer Networking",
+    "Networking",
 	"Software Engineering",   
    	 "NFV/SDN",
    	 "OpenStack",
@@ -50,4 +50,4 @@ year = 2011
 +++
 
 # Biography
-Hi, My name is Zhiheng Liu, you can also call me Vic. I work and study as a research and teaching assistant in SecLab mentored by [Prof.yinzhicao](yinzhicao.com) at Lehigh University. Before coming to the  United States, I work for China Mobile Research Institute as a Network Engineer and Project Manager for four years.
+Hi, My name is Zhiheng Liu, you can also call me Vic. I work and study as a research and teaching assistant in SecLab mentored by [Prof.Yinzhi Cao](yinzhicao.com) at Lehigh University. Before coming to the  United States, I work for China Mobile Research Institute as a Network Engineer and Project Manager for four years.
