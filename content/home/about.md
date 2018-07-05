@@ -23,7 +23,12 @@ weight = 1
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "Research and Teaching Assistant in Computer Science, Since 2016"
+  course = "Software Engineer Intern, May 2018 to Aug 2018"
+  institution = "Google Cloud, USA"
+  
+  
+[[education.courses]]
+  course = "Research Assistant in Computer Science, July 2016 to Dec 2018"
   institution = "Lehigh University, USA"
 
 
@@ -50,4 +55,4 @@ year = 2011
 +++
 
 # Biography
-Hi, My name is Zhiheng Liu, you can also call me Vic. I work and study as a research and teaching assistant in SecLab mentored by [Prof.Yinzhi Cao](yinzhicao.com) at Lehigh University. Before coming to the  United States, I work for China Mobile Research Institute as a Network Engineer and Project Manager for four years.
+I'm Zhiheng Liu, I'm in Sunnyvale CA now. I work as a software engineer intern in Google Cloud Platform. Before coming to the United States, I worked for China Mobile Research Institute(Cloud networking team) for four years. I contributed one international standard (RFC8099) and 27 technical proposals to Internet Engineering Task Force (IETF) as well as five patents. I love working on cloud technology such as network function virtualization (NFV), software-defined network (SDN), control plane networking system.
