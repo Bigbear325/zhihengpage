@@ -19,14 +19,14 @@ defaultContentLanguageInSubdir = false
   hrefTargetBlank = true
 
 [params]
-  name = "Zhiheng(Vic) Liu"
-  role = "Research and Teaching Assistant"
-  organization = "Lehigh University"
-  organization_url = "https://www1.lehigh.edu"
+  name = "Zhiheng(Andy) Liu"
+  role = "Software Engineer Intern"
+  organization = "Google Cloud"
+  organization_url = "https://cloud.google.com"
   gravatar = true  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "liu.cmri@gmail.com"
-  address = "Build27 Memorial Dr W, Bethlehem, PA 18015, USA"
+  address = "Anton 1101, North Fair Oaks Avenue, Sunnyvale, CA, 94089, USA"
   
 
   # Enable Keybase in Contact section by entering your keybase.io username.
@@ -131,7 +131,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+    link = "https://linkedin.com/in/zhiheng-liu/"
 
   [[params.social]]
     icon = "weixin"
@@ -141,17 +141,17 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "https://github.com/cmccvic"
    
    [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+    link = "https://twitter.com/HappyLiu666"
     
     [[params.social]]
     icon = "facebook"
     icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+    link = "https://www.facebook.com/liuzhiheng"
 
 
 # Navigation Links

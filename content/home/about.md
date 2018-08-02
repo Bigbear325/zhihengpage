@@ -10,9 +10,9 @@ widget = "about"
 weight = 1
 
 # List your academic interests.
-[interests]
-  interests = [
-  	"Cloud Networking"
+[interests] 
+    interests = [
+  	"Cloud Networking",
 	"Cyber Security",
     "Networking",
 	"Software Engineering",   
@@ -33,8 +33,8 @@ weight = 1
 
 
 [[education.courses]]
-course = "Project Manager and Network Engineer, July 2012 to July 2016"
-institution = "China Mobile Research Institute, China"
+course = "Project Manager, Research Engineer, Software Engineer, July 2012 to July 2016"
+institution = "China Mobile Cloud Team, China Mobile Research, China"
 
 
 [[education.courses]]
@@ -55,4 +55,4 @@ year = 2011
 +++
 
 # Biography
-I'm Zhiheng Liu, I'm in Sunnyvale CA now. I work as a software engineer intern in Google Cloud Platform. Before coming to the United States, I worked for China Mobile Research Institute(Cloud networking team) for four years. I contributed one international standard (RFC8099) and 27 technical proposals to Internet Engineering Task Force (IETF) as well as five patents. I love working on cloud technology such as network function virtualization (NFV), software-defined network (SDN), control plane networking system.
+I'm Zhiheng Liu (Andy), I'm in Sunnyvale CA now. I work as a software engineer intern in Google Cloud Platform. Before coming to the United States, I worked for China Mobile Research Institute(Cloud networking team) for four years. I contributed one international standard (RFC8099) and 27 technical proposals to Internet Engineering Task Force (IETF) as well as five patents. I love working on cloud technology such as network function virtualization (NFV), software-defined network (SDN), control plane networking system.
